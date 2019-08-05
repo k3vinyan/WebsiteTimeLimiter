@@ -1,0 +1,11 @@
+{
+    "name": "Website Time Limiter",
+    "version": "1.0",
+    "description": "Limits time spent on specific website base on time limit or period",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": ["storage"]
+}
