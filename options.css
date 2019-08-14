@@ -1,0 +1,17 @@
+body {
+    font-size: 14pt;
+}
+
+div {
+    border: 1px solid lightblue;
+}
+
+#options-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.website {
+    display: flex;
+    justify-content: center;
+}

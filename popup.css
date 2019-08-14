@@ -1,0 +1,10 @@
+.input-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.message-container {
+    display: flex;
+    justify-content: center;
+    display: none;
+}
